@@ -10,7 +10,7 @@ module.exports = {
             './src/js/01ArrayOperations.js',
             './src/js/02Concat.js',
             './src/js/03CloneMerge.js',
-            './src/js/04ReadBooks.js',
+            './src/ts/04ReadBooks.ts',
             './src/js/05SlotMachine.js',
         ],
         vendor: [
