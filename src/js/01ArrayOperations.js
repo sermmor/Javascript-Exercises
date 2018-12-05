@@ -11,7 +11,7 @@ const init = (l) => l.slice(0, l.length - 1);
 const last = (l) => l[l.length - 1];
 
 // -------- Show tests in console.
-let listToShow = [20, 42, 61, 57, 64, 98];
+const listToShow = [20, 42, 61, 57, 64, 98];
 console.log("-- 1. Array Operations --");
 console.log("Head result of [20, 42, 61, 57, 64, 98]: " + head(listToShow));
 console.log("Tail result of [20, 42, 61, 57, 64, 98]: " + tail(listToShow));
