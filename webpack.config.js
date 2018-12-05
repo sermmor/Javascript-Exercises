@@ -9,6 +9,9 @@ module.exports = {
         app: [
             './src/js/01ArrayOperations.js',
             './src/js/02Concat.js',
+            './src/js/03CloneMerge.js',
+            './src/js/04ReadBooks.js',
+            './src/js/05SlotMachine.js',
         ],
         vendor: [
             '@babel/polyfill',

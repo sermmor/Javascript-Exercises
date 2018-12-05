@@ -1,1 +1,4 @@
-console.log("CONCAT ZONE");
+
+// Show test in console.
+console.log("-- 2. Concat --");
+
